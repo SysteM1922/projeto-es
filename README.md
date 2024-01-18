@@ -10,5 +10,5 @@
 <h3>Nota: 18.5</h3>
 <h2>
   
-O projeto está numa organização github que pode ser acedida por este [link]([https://github.com/orgs/ES-Project-X/repositories])
+O projeto está numa organização github que pode ser acedida por este [link](https://github.com/orgs/ES-Project-X/repositories)
 </h2>
